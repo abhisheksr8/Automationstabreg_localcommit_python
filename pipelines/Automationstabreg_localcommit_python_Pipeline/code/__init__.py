@@ -1,0 +1,1 @@
+from .automationstabreg_localcommit_python_pipeline import *
